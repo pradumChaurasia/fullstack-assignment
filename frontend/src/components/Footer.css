@@ -61,5 +61,9 @@
       align-items: center;
       text-align: center;
     }
+
+    .footer{
+      height: fit-content;
+    }
   }
   
