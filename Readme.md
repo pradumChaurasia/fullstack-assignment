@@ -3,7 +3,7 @@
 
 ## Note:
 
-First run the bakend and then run the frontend.
+First run the backend and then run the frontend.
 
 ## Overview
 
