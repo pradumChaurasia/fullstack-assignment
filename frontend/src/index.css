@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-white-primary);
+  color: var(--color-black-secondary);
+  font-family: 'avenir-regular';
+  overflow-x: hidden;
+}
