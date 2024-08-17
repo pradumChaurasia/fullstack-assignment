@@ -1,6 +1,10 @@
 
 # Fullstack Assignment
 
+## Note:
+
+First run the bakend and then run the frontend.
+
 ## Overview
 
 This project consists of two main parts:
@@ -20,24 +24,6 @@ fullstack-assignment/
 ├── Backend/
 │ └── [Node.js application files]
 └── [Other project files]
-
-## Frontend Setup
-
-The frontend is a React application. To set up and run the frontend, follow these steps:
-
-1. Navigate to the `frontend` directory:
-
-   cd frontend
-
-2. Install the dependencies:
-
-    npm install
-
-# Running the Frontend
-
-To start the development server:
-
-    npm start
 
 
 ## Backend Setup
@@ -59,6 +45,28 @@ The backend is a Node.js application using Express and MongoDB. To set up and ru
 To start the server in development mode with automatic restarts:
 
     npm run dev
+
+
+
+## Frontend Setup
+
+The frontend is a React application. To set up and run the frontend, follow these steps:
+
+1. Navigate to the `frontend` directory:
+
+   cd frontend
+
+2. Install the dependencies:
+
+    npm install
+
+# Running the Frontend
+
+To start the development server:
+
+    npm start
+
+
 
 
 
