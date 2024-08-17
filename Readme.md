@@ -7,6 +7,11 @@ This project consists of two main parts:
 - **Frontend**: A React application.
 - **Backend**: A Node.js application using Express and MongoDB.
 
+## Clone the Repository:
+
+    git clone https://github.com/pradumChaurasia/fullstack-assignment.git
+    cd fullstack-assignment
+
 ## Directory Structure
 
 fullstack-assignment/
